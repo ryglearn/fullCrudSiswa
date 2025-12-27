@@ -33,7 +33,7 @@ Backend ini tidak hanya menggunakan query database biasa, tetapi menggunakan beb
     ```
 
 3.  **Setup Database (PENTING)**
-    * Buat database baru di MySQL, bebas tapi pastikan sama dengan yang ada di .env.
+    * Buat database baru di MySQL:  ujk_siswa,  pastikan sama dengan yang ada di .env.
     * Ubah .env example menjadi .env dan sesuaikan konfigurasinya..
     * Buat database dengan query yang tersedia di src/config/ quey.sql
 4.  **Jalankan Server**
